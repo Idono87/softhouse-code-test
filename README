@@ -1,0 +1,3 @@
+# Code Test
+
+Run the app by calling the executable CodeTest.app.exe with the follow arguments `<InputFile> <OutputFile>` eg. `passing_file.txt people.xml`
